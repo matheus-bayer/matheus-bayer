@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Bayer</h1>
-<h3 align="center">A passionate for data</h3>
+<h3 align="center">An enthusiast for data</h3>
 
 - 🔭 I’m currently working on **Product Owner and Data Analyst**
 
